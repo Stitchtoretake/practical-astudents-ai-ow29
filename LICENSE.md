@@ -1,4 +1,4 @@
-# 
+# Avançado Practical AI Projects for Students temas. Com otimização de modelos e extração de recursos — otimizado para máximo desempenho.
 
 
 
